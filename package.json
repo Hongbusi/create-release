@@ -1,5 +1,5 @@
 {
-  "name": "release-tag",
+  "name": "create-release",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
